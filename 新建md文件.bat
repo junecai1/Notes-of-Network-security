@@ -1,0 +1,1 @@
+type nul>test.md
