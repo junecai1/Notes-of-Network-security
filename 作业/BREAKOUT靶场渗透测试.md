@@ -385,8 +385,8 @@ don't worry no one will get here, it's safe to share with you my access. Its enc
 发现如下用户
 
 ```
-S-1-22-1-1000 Unix User\cyber (Local User)                                                                                                                                                                               
-S-1-5-21-1683874020-4104641535-3793993001-501 BREAKOUT\nobody (Local User)                                          
+S-1-22-1-1000 Unix User\cyber (Local User) 
+S-1-5-21-1683874020-4104641535-3793993001-501 BREAKOUT\nobody (Local User)                   
 S-1-5-21-1683874020-4104641535-3793993001-513 BREAKOUT\None (Domain Group)
 ```
 
